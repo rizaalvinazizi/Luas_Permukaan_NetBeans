@@ -11,9 +11,9 @@
 <br>
 
 ## B. Sreenshots
-<br>![Gambar1](https://github.com/rizaalvinazizi/Luas_Permukaan_NetBeans/blob/master/4.PNG)
-<br>![Gambar2](https://github.com/rizaalvinazizi/Luas_Permukaan_NetBeans/blob/master/5.PNG)
-<br>![Gambar3](https://github.com/rizaalvinazizi/Luas_Permukaan_NetBeans/blob/master/6.PNG)
+<br>![Gambar1](https://github.com/rizaalvinazizi/Volume_Bangun/blob/master/4.PNG)
+<br>![Gambar2](https://github.com/rizaalvinazizi/Volume_Bangun/blob/master/5.PNG)
+<br>![Gambar3](https://github.com/rizaalvinazizi/Volume_Bangun/blob/master/6.PNG)
 
 ### C. Identitas
 <br>Nama : Riza Alvin Azizi
